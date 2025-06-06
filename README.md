@@ -1,6 +1,1 @@
-- 👋 Hi, I’m @saikumar
-- 👀 I’m interested in New Technology exploration 
-- 🌱 I’m currently learning Computer Science 
-- 💞️ I’m looking to collaborate on Anything 
-- 📫 How to reach me using my email
-
+Computer Science and Engineering student with a strong foundation in Python, data structures, and web development. Interested in machine learning, full-stack development, and building real-world projects. Open to learning, collaboration, and new opportunities.
