@@ -1,1 +1,4 @@
-Computer Science and Engineering student with a strong foundation in Python, data structures, and web development. Interested in machine learning, full-stack development, and building real-world projects. Open to learning, collaboration, and new opportunities.
+🚀 Computer Science & Engineering student | 💻 Python • DSA • Web Dev
+Curious mind passionate about building real-world tech solutions — from sleek full-stack apps to smart ML models.
+🔥 Exploring the intersection of code, creativity, and impact.
+🤝 Open to collaborations, internships, and exciting dev opportunities!
