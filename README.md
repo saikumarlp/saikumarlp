@@ -23,15 +23,12 @@ A curious mind passionate about building real-world tech solutions—ranging fro
 * **DSA Grind:** Consistently optimizing problem-solving patterns (Frequency counting, sliding windows, and linked list manipulations).
 
 ---
-## 📈 GitHub Stats
+## 📈 GitHub Metrics
 
 <p align="left">
-  <a href="https://github.com/saikumarlp">
-    <img src="https://github-readme-stats.vercel.app/api?username=saikumarlp&show_icons=true&theme=dark" alt="Saikumar's GitHub Stats" height="150" />
-  </a>
-  <a href="https://github.com/saikumarlp">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikumarlp&layout=compact&theme=dark" alt="Top Languages" height="150" />
-  </a>
+  <img src="https://img.shields.io/github/followers/saikumarlp?style=for-the-badge&logo=github&color=24292e" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/saikumarlp?style=for-the-badge&logo=github&color=2188ff" alt="Total Stars" />
+  <img src="https://img.shields.io/github/repo-size/saikumarlp/Flask_Projects?style=for-the-badge&logo=flask&color=ff5722" alt="Repo Size" />
 </p>
 
 ---
