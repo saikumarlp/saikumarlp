@@ -8,13 +8,25 @@ A curious mind passionate about building real-world tech solutions—ranging fro
 
 ## 🛠️ Tech Stack & Toolbelt
 
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | Python, Java, JavaScript, C++, HTML5, CSS3, SQL |
-| **Frameworks & Libraries** | React, Node.js, Flask, LangChain, Bootstrap |
-| **Data Structures & Algorithms** | Linked Lists, Sliding Window/Two-Pointer, Advanced Arrays |
-| **Tools & Platforms** | Git, GitHub, VS Code, Postman |
+### 💻 Languages
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
+### 🌐 Frameworks & Libraries
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![LangChain](https://img.shields.io/badge/🦜🔗_LangChain-⛓️-black?style=for-the-badge)
+
+### ⚙️ Tools & Platforms
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ---
 
 ## 🔮 What I'm Working On & Exploring
