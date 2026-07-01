@@ -23,12 +23,15 @@ A curious mind passionate about building real-world tech solutions—ranging fro
 * **DSA Grind:** Consistently optimizing problem-solving patterns (Frequency counting, sliding windows, and linked list manipulations).
 
 ---
-
 ## 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=saikumarlp&show_icons=true&theme=dark" alt="Saikumar's GitHub Stats" height="150" />
-  <img src="https://github-readme-top-langs.vercel.share.zrok.io/api/top-langs/?username=saikumarlp&layout=compact&theme=dark" alt="Top Languages" height="150" />
+  <a href="https://github.com/saikumarlp">
+    <img src="https://github-readme-stats.vercel.app/api?username=saikumarlp&show_icons=true&theme=dark" alt="Saikumar's GitHub Stats" height="150" />
+  </a>
+  <a href="https://github.com/saikumarlp">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikumarlp&layout=compact&theme=dark" alt="Top Languages" height="150" />
+  </a>
 </p>
 
 ---
